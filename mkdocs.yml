@@ -1,0 +1,54 @@
+# Project Information
+site_name: EE-Wiki
+site_description: 愿你能在本站学习到你所需知识并为本站的发展贡献一份力 :)
+site_author: EE-Wiki Team
+strict: false
+theme:
+  name: material
+  features:
+     - navigation.top
+     - navigation.tabs
+    # - toc.integrate
+    # - navigation.indexes
+    # - navigation.expand
+    # - navigation.sections
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: zh
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: images/logo-black-48px.png
+  logo: images/logo-white-32px.png
+
+# Repository
+repo_name: 'EE-wiki/EE-wiki'
+repo_url: 'https://github.com/EE-wiki/EE-wiki'
+
+# Copyright
+copyright: 'Copyright &copy; 2021 EE-Wiki Team'
+
+extra:
+  disqus: ee-wiki
+
+# Contents
+nav:
+  - 简介:
+    - 关于我们: index.md
+    - 参与建设: intro/join-us.md
