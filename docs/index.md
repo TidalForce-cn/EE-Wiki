@@ -4,6 +4,8 @@ pagetime:
 title: 关于我们
 ---
 
+![EE-Wiki初版海报](https://s2.loli.net/2021/12/20/KWyqwXflOekJCLS.jpg)
+
 > **EE** 为（Electronic Engine）的缩写，译为电子工程。
 
 ## 项目起源
