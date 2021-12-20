@@ -1,8 +1,3 @@
----
-disqus:
-pagetime:
-title: 
----
 # 关于EE-Wiki
 
 > **EE** 为（Electronic Engine）的缩写，译为电子工程。

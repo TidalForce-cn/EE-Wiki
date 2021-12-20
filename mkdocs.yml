@@ -8,10 +8,6 @@ theme:
   features:
      - navigation.top
      - navigation.tabs
-    # - toc.integrate
-    # - navigation.indexes
-    # - navigation.expand
-    # - navigation.sections
   palette: 
     - scheme: default
       toggle:
