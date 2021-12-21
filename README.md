@@ -16,4 +16,4 @@
 
 * [QQ群(756460169)](https://jq.qq.com/?_wv=1027&k=ex93ZPGh)
 
-* [Github issue](https://github.com/EE-Wiki/EE-Wiki/issues)
+* [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
