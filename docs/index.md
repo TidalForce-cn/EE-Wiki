@@ -1,8 +1,4 @@
----
-disqus:
-pagetime:
-title: 关于我们
----
+# 关于我们
 
 ![EE-Wiki初版海报](https://s2.loli.net/2021/12/20/JOyzS3DleKQR4uc.jpg)
 
