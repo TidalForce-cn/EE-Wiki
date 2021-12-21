@@ -18,4 +18,4 @@
 
 * [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
 
-* 站长邮箱: aoivan@qq.com
+* 站长邮箱: aokivan@qq.com
