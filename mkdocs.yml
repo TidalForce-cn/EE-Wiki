@@ -43,8 +43,25 @@ copyright: 'Copyright &copy; 2021 EE-Wiki Team'
 extra:
   disqus: ee-wiki
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 # Contents
 nav:
   - 简介:
-    - 关于我们: index.md
+    - 关于我们: intro/index.md
     - 参与建设: intro/join-us.md
+  - 基础学科知识:
+    - 模电:
+      - 关于模电: basic-knowledge/analog-basic/index.md
+    - 数电: 
+      - 关于数电: basic-knowledge/digital-basic/index.md
+  - 行业入门软件:
+    - Vivado: 
+      - 关于Vivado: basic-software/vivado/index.md
+    - Multisim:
+      - 关于Multisim: basic-software/multisim/index.md
+    # - Matlab:
+    #   - 关于Matlab: basic-software/matlab/index.md
