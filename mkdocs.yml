@@ -51,7 +51,7 @@ markdown_extensions:
 # Contents
 nav:
   - 简介:
-    - 关于我们: intro/index.md
+    - 关于我们: index.md
     - 参与建设: intro/join-us.md
   - 基础学科知识:
     - 模电:
