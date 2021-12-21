@@ -58,6 +58,10 @@ nav:
       - 关于模电: basic-knowledge/analog-basic/index.md
     - 数电: 
       - 关于数电: basic-knowledge/digital-basic/index.md
+    - C语言:
+      - 关于C语言: basic-knowledge/c-lang/index.md
+    - VerilogHDL:
+      - 关于VerilogHDL: basic-knowledge/veriloghdl-lang/index.md
   - 行业入门软件:
     - Vivado: 
       - 关于Vivado: basic-software/vivado/index.md
