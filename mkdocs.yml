@@ -1,56 +1,10 @@
-# Project Information
+# Site Information
 site_name: EE-Wiki
 site_description: 愿你能在本站学习到你所需知识并为本站的发展贡献一份力 :)
 site_author: EE-Wiki Team
 strict: false
-#theme
-theme:
-  name: null
-  custom_dir: mkdocs-material/material
-  # 404 page
-  static_templates:
-    - 404.html
-  # Necessary for search to work properly
-  include_search_page: false
-  search_index_only: true
-  # Default values, taken from mkdocs_theme.yml
-  language: zh
-  font:
-    text: hack    
-    code: hack
-  favicon: assets/favicon.png
-  icon:
-    logo: logo/Overclocking-white32px
-  features:
-     - navigation.top
-     - navigation.tabs
-  palette: 
-    - scheme: default
-      toggle:
-        icon: material/lightbulb-outline
-        name: Switch to dark mode
-    - scheme: slate 
-      toggle:
-        icon: material/lightbulb
-        name: Switch to light mode
 
-# Repository
-repo_name: 'EE-wiki/EE-wiki'
-repo_url: 'https://github.com/EE-wiki/EE-wiki'
-
-# Copyright
-copyright: 'Copyright &copy; 2021 EE-Wiki Team'
-
-# Extra Settings
-extra:
-  disqus: ee-wiki
-
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
-# Contents
+# Contents nav
 nav:
   - 简介:
     - 关于我们: index.md
@@ -71,3 +25,47 @@ nav:
       - 关于Multisim: basic-software/multisim/index.md
     # - Matlab:
     #   - 关于Matlab: basic-software/matlab/index.md
+
+#Theme Settings
+theme:
+  name: material
+  # 404 page
+  static_templates:
+    - 404.html
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+  # Default values, taken from mkdocs_theme.yml
+  language: zh
+  font:
+    text: hack    
+    code: hack
+  favicon: assets/logo-black-48px.png
+  logo: assets/logo-white-32px.png
+  features:
+     - navigation.top
+     - navigation.tabs
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+# Repository Information
+repo_name: 'EE-wiki/EE-wiki'
+repo_url: 'https://github.com/EE-wiki/EE-wiki'
+
+# Copyright
+copyright: 'Copyright &copy; 2021 EE-Wiki Team'
+
+# Extra Settings
+extra:
+  disqus: ee-wiki
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
