@@ -10,10 +10,16 @@
 
 *本项目受 [OI Wiki](https://oi-wiki.org/) 的启发，在编写过程中参考了许多，在此表示敬意。*
 
+## 待认领任务清单
+
+- [ ] 站点浏览量统计
+- [ ] 留言讨论模块
+- [ ] ......
+
 ## 交流平台
 
 本项目有诸多渠道供大家友好地讨论相关知识，目前公开渠道如下：
 
-* [QQ群(756460169)](https://jq.qq.com/?_wv=1027&k=ex93ZPGh)
+- [QQ群(756460169)](https://jq.qq.com/?_wv=1027&k=ex93ZPGh)
 
-* [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
+- [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
