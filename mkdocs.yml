@@ -9,6 +9,7 @@ nav:
   - 简介:
     - 关于我们: index.md
     - 参与建设: intro/join-us.md
+    - 站点日志: intro/site-dev-log.md
   - 基础学科知识:
     - 模电:
       - 关于模电: basic-knowledge/analog-basic/index.md
