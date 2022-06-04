@@ -10,6 +10,7 @@ nav:
     - 关于我们: index.md
     - 参与建设: intro/join-us.md
     - 站点日志: intro/site-dev-log.md
+    - ToDo清单: intro/ToDoList.md
   - 基础学科知识:
     - 模电:
       - 关于模电: basic-knowledge/analog-basic/index.md
@@ -61,12 +62,15 @@ repo_name: 'EE-wiki/EE-wiki'
 repo_url: 'https://github.com/EE-wiki/EE-wiki'
 
 # Copyright
-copyright: 'Copyright &copy; 2021 EE-Wiki Team'
+copyright: 'Copyright &copy; 2021-2022 EE-Wiki Team'
 
 # Extra Settings
 extra:
   disqus: ee-wiki
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
