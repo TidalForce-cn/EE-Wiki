@@ -32,6 +32,7 @@ nav:
 #Theme Settings
 theme:
   name: material
+  custom_dir: overrides
   # 404 page
   static_templates:
     - 404.html
