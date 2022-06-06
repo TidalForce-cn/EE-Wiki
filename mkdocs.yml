@@ -8,10 +8,10 @@ strict: false
 nav:
   - 简介:
     - 关于我们: index.md
-    - 参与建设: intro/join-us.md
-    - 站点日志: intro/site-dev-log.md
     - ToDo清单: intro/ToDoList.md
-    - 献出一份力: intro/contribute.md
+    - 参与建设: intro/contribute.md
+    - 建设手册: intro/GuideBook.md
+    - 站点日志: intro/site-dev-log.md
   - 基础学科知识:
     - 模电:
       - 关于模电: basic-knowledge/analog-basic/index.md
@@ -75,3 +75,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
