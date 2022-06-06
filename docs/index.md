@@ -20,7 +20,7 @@
 
 * [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
 
-* [站长邮箱](aokivan@qq.com)
+* <a href="mailto:aokivan@qq.com">站长邮箱(工作日9am-10pm)</a>
 
 ### 信息发布平台
 
