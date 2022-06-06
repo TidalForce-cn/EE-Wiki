@@ -12,7 +12,7 @@
 
 ## 任务清单
 
-**已转移到站点内部页面[(单击查看)](docs\intro\ToDoList.md)**
+**已转移到站点内部页面[(单击查看)](https://eewiki.pixelcookie.cn/intro/ToDoList/)**
 
 ## 交流平台
 
