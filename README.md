@@ -21,3 +21,9 @@
 - [QQ群(756460169)](https://jq.qq.com/?_wv=1027&k=ex93ZPGh)
 
 - [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
+
+* <a href="mailto:aokivan@qq.com">站长邮箱(工作日9am-10pm)</a>
+
+## 参与建设
+
+**具体内容请查看站内页面[(单击查看)](https://eewiki.pixelcookie.cn/intro/contribute/)**
