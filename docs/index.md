@@ -20,13 +20,10 @@
 
 * [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
 
-* <a href="mailto:aokivan@qq.com">站长邮箱(工作日9am-10pm)</a>
+* [站长邮箱(工作日9am-10pm)](mailto:lwantaoo@qq.com)
 
 ### 信息发布平台
 
-<center class="half">
-    <a href ="https://afdian.net/@ee-wiki"><img src="https://s2.loli.net/2022/06/04/5RXnM9wP8jAVFKp.jpg" width="233"/></a> <img src="https://s2.loli.net/2022/06/06/rO1ICtH5Ts3e6Pj.jpg" width="400">
-</center>
+![a](https://s2.loli.net/2022/06/06/rO1ICtH5Ts3e6Pj.jpg)
 
-* 爱发电为目前[接受捐款](https://eewiki.pixelcookie.cn/intro/contribute/)的唯一渠道
 * 微信公众号则可以说是本站的一种延伸，即将推出投稿渠道，使得各位的才华与文笔有一个平台进行展示、甚至盈利...
