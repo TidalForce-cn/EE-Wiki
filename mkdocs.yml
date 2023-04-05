@@ -89,6 +89,6 @@ plugins:
       enable_creation_date: true
       type: date
 #pip install mkdocs-git-committers-plugin-2
-  - git-committers:
-      repository: EE-wiki/EE-wiki
-      branch: main
+  # - git-committers:
+  #     repository: EE-wiki/EE-wiki
+  #     branch: main
