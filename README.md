@@ -10,6 +10,7 @@
 <a href="https://github.com/EE-Wiki/EE-Wiki/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/EE-Wiki/EE-Wiki?color=2b9348&style=flat-square"></a>
 <a href="https://github.com/EE-Wiki/EE-Wiki/stargazers"><img alt="Stars Badge" src="https://img.shields.io/github/stars/EE-Wiki/EE-Wiki?style=flat-square&color=ffb700"></a>
 <a href="https://github.com/EE-Wiki/EE-Wiki/network/members"><img alt="Forks Badge" src="https://img.shields.io/github/forks/EE-Wiki/EE-Wiki?style=flat-square&color=8742b1"></a>
+
 </div>
 
 ## 项目起源
@@ -36,9 +37,23 @@
 
 **具体内容请查看站内页面[(单击查看)](https://eewiki.lwantaoo.xyz/intro/contribute/)**
 
-## Contributors
+## 贡献者们
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://me.lwantaoo.xyz"><img src="https://avatars.githubusercontent.com/u/61775365?v=4?s=100" width="100px;" alt="涛"/><br /><sub><b>涛</b></sub></a><br /><a href="#maintenance-LWanTao" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
