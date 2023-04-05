@@ -46,6 +46,7 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://me.lwantaoo.xyz"><img src="https://avatars.githubusercontent.com/u/61775365?v=4?s=100" width="100px;" alt="涛"/><br /><sub><b>涛</b></sub></a><br /><a href="#maintenance-LWanTao" title="Maintenance">🚧</a> <a href="#content-LWanTao" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Saus4ge"><img src="https://avatars.githubusercontent.com/u/88784747?v=4?s=100" width="100px;" alt="Saus4ge"/><br /><sub><b>Saus4ge</b></sub></a><br /><a href="#content-Saus4ge" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
