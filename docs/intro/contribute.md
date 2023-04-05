@@ -35,25 +35,13 @@
 
 ## 参与建设有哪些渠道?
 
-* ### :one:通过Git工具协同编辑本站
+* ### :one:参与本站的内容编辑
 
-    具体操作请见本站目录([简介-建设手册](https://eewiki.pixelcookie.cn/intro/GuideBook/))
+    具体操作请见本站目录([简介-建设手册](/EE-Wiki/intro/GuideBook/))
 
 * ### :two:投稿文章到公众号
 
-    具体投稿方法请[访问公众号](https://eewiki.pixelcookie.cn/#_5)
-
-* ### :three:捐款提供运作资金
-
-???+ info "感谢你的支持:heart:"
-
-     目前团队成员屈指可数，均为在校本科生，  
-     时间精力经济确实都有限，但我们对构建知识开源社区的热情  
-     不应被这些所困，假若您有余力并且与我们有共同的愿景，  
-     欢迎赞助我们，请备注您的署名与联系方式,  
-     我们会选择合适的地方来表达感谢以及流水帐公示。  
-     **所有款项**都用于**EE-Wiki**开发与运营等相关活动中
-     <table><tr><td><a href ="https://afdian.net/@ee-wiki"><img src="https://s2.loli.net/2022/06/04/5RXnM9wP8jAVFKp.jpg" width=40% ></a></td></a></tr></table>
+    具体投稿方法请[访问公众号](/#_5)
 
 *未完待续...*
 

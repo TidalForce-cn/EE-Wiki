@@ -8,7 +8,7 @@
 
 ## 短期目标
 
-- [x] 这是一个示例任务 / 状态：进行中 / [AokIvan](https://github.com/AokIvan)
+- [x] 这是一个示例任务 / 状态：进行中 / [LWanTao](https://github.com/lwantao)
 
 - [ ] 添加单页面&全站修改记录显示模块 / 状态：未认领
 
@@ -18,7 +18,7 @@
 
 ## 长期目标
 
-- [x] 做一个独立的bbs / 状态：进行中 / [AokIvan](https://github.com/AokIvan)&[Saus4ge](https://github.com/Saus4ge)
+- [x] 做一个独立的bbs / 状态：进行中 / [LWanTao](https://github.com/lwantao)&[Saus4ge](https://github.com/Saus4ge)
 
 ---
 
@@ -32,6 +32,6 @@
 
 ## 已完成的目标
 
-- [x] 这是一个示例任务 / 状态：已完成 / [AokIvan](https://github.com/AokIvan) / 2022.06.04
+- [x] 这是一个示例任务 / 状态：已完成 / [LWanTao](https://github.com/lwantao) / 2022.06.04
 
-- [x] 添加评论留言模块 / 状态：已完成 / [AokIvan](https://github.com/AokIvan) / 2022.06.06
+- [x] 添加评论留言模块 / 状态：已完成 / [LWanTao](https://github.com/lwantao) / 2022.06.06

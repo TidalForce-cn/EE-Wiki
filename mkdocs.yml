@@ -1,8 +1,14 @@
 # Site Information
 site_name: EE-Wiki
+site_url: https://ee-wiki.github.io/EE-Wiki/
 site_description: 愿你能在本站学习到你所需知识并为本站的发展贡献一份力 :)
 site_author: EE-Wiki Team
 strict: false
+# Repository Information
+repo_name: 'EE-wiki/EE-wiki'
+repo_url: 'https://github.com/EE-wiki/EE-wiki'
+# Copyright
+copyright: 'Copyright &copy; 2021-2023 EE-Wiki Team'
 
 # Contents nav
 nav:
@@ -11,7 +17,8 @@ nav:
     - ToDo清单: intro/ToDoList.md
     - 参与建设: intro/contribute.md
     - 建设手册: intro/GuideBook.md
-    - 站点日志: intro/site-dev-log.md
+    - 站点运行状态: intro/status.md
+    - 站点建设里程碑: intro/site-dev-log.md
   - 基础学科知识:
     - 模电:
       - 关于模电: basic-knowledge/analog-basic/index.md
@@ -58,13 +65,6 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
-
-# Repository Information
-repo_name: 'EE-wiki/EE-wiki'
-repo_url: 'https://github.com/EE-wiki/EE-wiki'
-
-# Copyright
-copyright: 'Copyright &copy; 2021-2022 EE-Wiki Team'
 
 # Extra Settings
 extra:
