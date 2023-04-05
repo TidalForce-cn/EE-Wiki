@@ -33,3 +33,14 @@
 ## 参与建设
 
 **具体内容请查看站内页面[(单击查看)](https://eewiki.lwantaoo.xyz/intro/contribute/)**
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
