@@ -15,6 +15,15 @@
         "maintenance",
         "content"
       ]
+    },
+    {
+      "login": "Saus4ge",
+      "name": "Saus4ge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88784747?v=4",
+      "profile": "https://github.com/Saus4ge",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
