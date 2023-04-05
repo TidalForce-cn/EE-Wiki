@@ -82,3 +82,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins: 
+#pip install mkdocs-git-revision-date-localized-plugin
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+#pip install mkdocs-git-committers-plugin-2
+  - git-committers:
+      repository: EE-wiki/EE-wiki
+      branch: main
