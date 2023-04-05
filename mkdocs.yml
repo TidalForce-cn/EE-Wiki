@@ -1,6 +1,7 @@
 # Site Information
 site_name: EE-Wiki
 site_url: https://ee-wiki.github.io/EE-Wiki/
+edit_uri: blob/main/docs/
 site_description: 愿你能在本站学习到你所需知识并为本站的发展贡献一份力 :)
 site_author: EE-Wiki Team
 strict: false
@@ -56,6 +57,7 @@ theme:
   features:
      - navigation.top
      - navigation.tabs
+     - content.action.edit
   palette: 
     - scheme: default
       toggle:
