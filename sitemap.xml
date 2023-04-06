@@ -26,12 +26,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-software/multisim/</loc>
+         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/git/</loc>
          <lastmod>2023-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-software/vivado/</loc>
+         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/markdown/</loc>
+         <lastmod>2023-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/multisim/</loc>
+         <lastmod>2023-04-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/vivado/</loc>
          <lastmod>2023-04-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
