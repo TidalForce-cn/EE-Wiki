@@ -29,11 +29,15 @@ nav:
       - 关于C语言: basic-knowledge/c-lang/index.md
     - VerilogHDL:
       - 关于VerilogHDL: basic-knowledge/veriloghdl-lang/index.md
-  - 行业入门软件:
+  - 行业入门工具:
+    - Git:
+      - 关于Git: basic-tools/git/index.md
+    - Markdown:
+      - 关于Markdown: basic-tools/markdown/index.md
     - Vivado: 
-      - 关于Vivado: basic-software/vivado/index.md
+      - 关于Vivado: basic-tools/vivado/index.md
     - Multisim:
-      - 关于Multisim: basic-software/multisim/index.md
+      - 关于Multisim: basic-tools/multisim/index.md
     # - Matlab:
     #   - 关于Matlab: basic-software/matlab/index.md
 
