@@ -21,7 +21,7 @@
 
 ## 任务清单
 
-**已转移到站点内部页面[(单击查看)](https://eewiki.lwantaoo.xyz/intro/ToDoList/)**
+**已转移到站点内部页面[(单击查看)](https://ee-wiki.github.io/EE-Wiki/intro/ToDoList/)**
 
 ## 交流平台
 
@@ -35,4 +35,4 @@
 
 ## 参与建设
 
-**具体内容请查看站内页面[(单击查看)](https://eewiki.lwantaoo.xyz/intro/contribute/)**
+**具体内容请查看站内页面[(单击查看)](https://ee-wiki.github.io/EE-Wiki/intro/contribute/)**
