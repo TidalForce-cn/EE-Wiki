@@ -3,10 +3,10 @@
 ## 部署模式
 
 ???+ abstract "双节点部署，均为临时域名"
-     Github Pages作为主站点，使用临时域名👇  
-     "[https://ee-wiki.github.io/EE-Wiki](https://ee-wiki.github.io/EE-Wiki)"  
-     Vercel作为备用站点，使用临时域名👇  
-     "[https://eewiki.lwantaoo.xyz](https://eewiki.lwantaoo.xyz)"  
+     Vercel作为主站点，使用上游组织TidalForce的域名👇  
+     "[https://ee-wiki.tidalforce.cn/](https://ee-wiki.tidalforce.cn/)"  
+     Github Pages作为备用站点，使用Github提供的域名👇  
+     "[https://7idalforce.github.io/EE-Wiki/](https://7idalforce.github.io/EE-Wiki/)"
 
 ## 站点开发热度
 
