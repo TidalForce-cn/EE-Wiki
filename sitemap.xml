@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/analog-basic/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/c-lang/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/digital-basic/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/veriloghdl-lang/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/git/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/markdown/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/multisim/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/vivado/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/intro/GuideBook/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/intro/ToDoList/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/intro/contribute/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/intro/site-dev-log/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ee-wiki.github.io/EE-Wiki/intro/status/</loc>
-         <lastmod>2023-04-06</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
