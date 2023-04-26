@@ -5,11 +5,11 @@
 > **EE** 为（Electronic Engine）的缩写，译为电子工程。
 
 <div align="center">
-<a href="https://github.com/EE-Wiki/EE-Wiki/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-pink?style=flat-square" alt="website"/></a>
+<a href="https://github.com/7idalForce/EE-Wiki/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-pink?style=flat-square" alt="website"/></a>
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-BY--NC--SA_4.0-green?style=flat-square" alt="website"/></a>
-<a href="https://github.com/EE-Wiki/EE-Wiki/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/EE-Wiki/EE-Wiki?color=2b9348&style=flat-square"></a>
-<a href="https://github.com/EE-Wiki/EE-Wiki/stargazers"><img alt="Stars Badge" src="https://img.shields.io/github/stars/EE-Wiki/EE-Wiki?style=flat-square&color=ffb700"></a>
-<a href="https://github.com/EE-Wiki/EE-Wiki/network/members"><img alt="Forks Badge" src="https://img.shields.io/github/forks/EE-Wiki/EE-Wiki?style=flat-square&color=8742b1"></a>
+<a href="https://github.com/7idalForce/EE-Wiki/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/7idalForce/EE-Wiki?color=2b9348&style=flat-square"></a>
+<a href="https://github.com/7idalForce/EE-Wiki/stargazers"><img alt="Stars Badge" src="https://img.shields.io/github/stars/7idalForce/EE-Wiki?style=flat-square&color=ffb700"></a>
+<a href="https://github.com/7idalForce/EE-Wiki/network/members"><img alt="Forks Badge" src="https://img.shields.io/github/forks/7idalForce/EE-Wiki?style=flat-square&color=8742b1"></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 任务清单
 
-**已转移到站点内部页面[(单击查看)](https://ee-wiki.github.io/EE-Wiki/intro/ToDoList/)**
+**已转移到站点内部页面[(单击查看)](https://ee-wiki.tidalforce.cn/intro/ToDoList/)**
 
 ## 交流平台
 
@@ -29,10 +29,16 @@
 
 - [QQ群(756460169)](https://jq.qq.com/?_wv=1027&k=ex93ZPGh)
 
-- [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
+- [Github Discussions](https://github.com/7idalForce/EE-Wiki/discussions)
 
-- [站长邮箱(工作日9am-10pm)](mailto:aokivan@qq.com)
+- [站长邮箱(工作日9am-10pm)](mailto:lwantaoo@qq.com)
 
 ## 参与建设
 
-**具体内容请查看站内页面[(单击查看)](https://ee-wiki.github.io/EE-Wiki/intro/contribute/)**
+**具体内容请查看站内页面[(单击查看)](https://ee-wiki.tidalforce.cn/intro/contribute/)**
+
+## 敬贡献者们
+
+<a href="https://github.com/7idalForce/EE-Wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=7idalForce/EE-Wiki" />
+</a>
