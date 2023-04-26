@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/analog-basic/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-knowledge/analog-basic/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/c-lang/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-knowledge/c-lang/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/digital-basic/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-knowledge/digital-basic/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-knowledge/veriloghdl-lang/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-knowledge/veriloghdl-lang/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/git/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-tools/git/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/markdown/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-tools/markdown/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/multisim/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-tools/multisim/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/basic-tools/vivado/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/basic-tools/vivado/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/intro/GuideBook/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/intro/GuideBook/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/intro/ToDoList/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/intro/ToDoList/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/intro/contribute/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/intro/contribute/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/intro/site-dev-log/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/intro/site-dev-log/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ee-wiki.github.io/EE-Wiki/intro/status/</loc>
+         <loc>https://ee-wiki.tidalforce.cn/intro/status/</loc>
          <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
