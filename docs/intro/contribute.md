@@ -37,14 +37,14 @@
 
 * ### :one:参与本站的内容编辑
 
-    具体操作请见本站目录([简介-建设手册](/EE-Wiki/intro/GuideBook/))
+    具体操作请见本站目录([简介-建设手册](../GuideBook))
 
 * ### :two:投稿文章到公众号
 
-    具体投稿方法请[访问公众号](/#_5)
+    具体投稿方法请[访问公众号](../index.md#_5)
 
 *未完待续...*
 
 ## 参考资料
 
-[^1]: [《Show your work!》- Austin Kleon](https://book.douban.com/subject/25857796/) 
+[^1]: [《Show your work!》- Austin Kleon](https://book.douban.com/subject/25857796/)
