@@ -38,6 +38,8 @@ nav:
       - 关于Vivado: basic-tools/vivado/index.md
     - Multisim:
       - 关于Multisim: basic-tools/multisim/index.md
+  - 博客:
+    - blog/index.md
     # - Matlab:
     #   - 关于Matlab: basic-software/matlab/index.md
 
@@ -88,17 +90,18 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins: 
   - search
+  - blog
+#pip install mkdocs-git-committers-plugin-2
+  - git-committers:
+      repository: 7idalForce/EE-wiki
+      branch: main
 #pip install mkdocs-git-revision-date-localized-plugin
   - git-revision-date-localized:
       enable_creation_date: true
       type: date
-#pip install mkdocs-git-committers-plugin-2
-  # - git-committers:
-  #     repository: EE-wiki/EE-wiki
-  #     branch: main
