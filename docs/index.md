@@ -18,7 +18,7 @@
 
 * [QQ 群(756460169)](https://jq.qq.com/?_wv=1027&k=ex93ZPGh)
 
-* [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
+* [Github Discussions](https://github.com/TidalForce-cn/EE-Wiki/discussions)
 
 ### 信息发布平台
 
