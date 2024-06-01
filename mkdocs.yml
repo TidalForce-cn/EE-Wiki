@@ -6,10 +6,10 @@ site_description: 愿你能在本站学习到你所需知识并为本站的发�
 site_author: EE-Wiki Team
 strict: false
 # Repository Information
-repo_name: '7idalForce/EE-wiki'
-repo_url: 'https://github.com/7idalForce/EE-wiki'
+repo_name: 'TidalForce-cn/EE-wiki'
+repo_url: 'https://github.com/TidalForce-cn/EE-wiki'
 # Copyright
-copyright: 'Copyright &copy; 2021-2023 EE-Wiki Team'
+copyright: 'Copyleft &copy; 2021-2024 所有贡献者'
 
 # Contents nav
 nav:
@@ -56,7 +56,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: zh
   font:
-    text: hack    
+    text: hack
     code: hack
   favicon: assets/logo-black-48px.png
   logo: assets/logo-white-32px.png
@@ -77,9 +77,6 @@ theme:
 # Extra Settings
 extra:
   disqus: ee-wiki
-  analytics:
-    provider: google
-    property: G-RQ1Q31MCND
 markdown_extensions:
   - admonition
   - footnotes
