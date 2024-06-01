@@ -31,7 +31,7 @@
 
 - [Github Discussions](https://github.com/7idalForce/EE-Wiki/discussions)
 
-- [站长邮箱(工作日9am-10pm)](mailto:lwantaoo@qq.com)
+- [站长邮箱(工作日9am-10pm)](mailto:hi@vantao.cn)
 
 ## 参与建设
 
