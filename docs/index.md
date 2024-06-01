@@ -20,8 +20,6 @@
 
 * [Github Discussions](https://github.com/EE-Wiki/EE-Wiki/discussions)
 
-* [站长邮箱(工作日 9 am - 10 pm)](mailto:hi@vantao.com)
-
 ### 信息发布平台
 
 ![a](https://s2.loli.net/2022/06/06/rO1ICtH5Ts3e6Pj.jpg)
