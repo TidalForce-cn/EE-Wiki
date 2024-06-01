@@ -100,9 +100,9 @@ markdown_extensions:
 plugins: 
   - search
   - blog
-#pip install mkdocs-git-committers-plugin-2
+#pip install mkdocs-git-committers-plugin
   - git-committers:
-      repository: 7idalForce/EE-wiki
+      repository: TidalForce-cn/EE-wiki
       branch: main
 #pip install mkdocs-git-revision-date-localized-plugin
   - git-revision-date-localized:
