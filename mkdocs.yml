@@ -96,7 +96,8 @@ markdown_extensions:
 
 plugins: 
   - search
-  - blog
+  - blog:
+      blog_toc: true
 #pip install mkdocs-git-committers-plugin
   - git-committers:
       repository: TidalForce-cn/EE-wiki
